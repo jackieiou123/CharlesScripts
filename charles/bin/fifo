@@ -1,5 +1,6 @@
 #!/bin/sh
-conda update --all
+conda install pyqt4
+inst python3-matplotlib python3-pandas python3-seaborn
 # this script should be edited by calling "ef"
 # this is an FIFO(first in first out) script, you can write down notes or command here and you can just call "fifo" to run it.
 echo '神经网络参数+启发式算法'
