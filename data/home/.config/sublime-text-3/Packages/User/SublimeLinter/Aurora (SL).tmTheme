@@ -2,25 +2,36 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>gutterSettings</key>
+	<dict>
+		<key>background</key>
+		<string>#49483E</string>
+		<key>divider</key>
+		<string>#75715E</string>
+		<key>foreground</key>
+		<string>#75715E</string>
+	</dict>
 	<key>name</key>
-	<string>Agola Dark</string>
+	<string>Aurora</string>
+	<key>semanticClass</key>
+	<string>theme.dark.heroku</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#31333D</string>
+				<string>#302e40</string>
 				<key>caret</key>
-				<string>#F8F8F0</string>
+				<string>#ffffff</string>
 				<key>foreground</key>
-				<string>#BBCF54</string>
+				<string>#ececec</string>
 				<key>invisibles</key>
-				<string>#31333D</string>
+				<string>#383838</string>
 				<key>lineHighlight</key>
-				<string>#3F4152</string>
+				<string>#3f3d4d</string>
 				<key>selection</key>
-				<string>#535566</string>
+				<string>#4b4959</string>
 			</dict>
 		</dict>
 		<dict>
@@ -31,7 +42,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#707180</string>
+				<string>#696587</string>
 			</dict>
 		</dict>
 		<dict>
@@ -42,7 +53,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B4C757</string>
+				<string>#ffb700</string>
 			</dict>
 		</dict>
 		<dict>
@@ -53,7 +64,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#3f89ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -64,7 +75,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#3f89ff</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -75,7 +88,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A2BA43</string>
+				<string>#3f89ff</string>
+				<key>fontStyle</key>
+				<string />
 			</dict>
 		</dict>
 		<dict>
@@ -87,8 +102,6 @@
 			<dict>
 				<key>fontStyle</key>
 				<string />
-				<key>foreground</key>
-				<string>#9EC9E3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -99,7 +112,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DB7C6D</string>
+				<string>#e12977</string>
 			</dict>
 		</dict>
 		<dict>
@@ -112,7 +125,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#DBBD46</string>
+				<string>#e12977</string>
 			</dict>
 		</dict>
 		<dict>
@@ -122,10 +135,10 @@
 			<string>storage.type</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
-				<string>#A3CBE3</string>
+				<string>#7877ff</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -136,7 +149,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C77E77</string>
+				<string>#c5e400</string>
 			</dict>
 		</dict>
 		<dict>
@@ -146,10 +159,10 @@
 			<string>entity.other.inherited-class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>   italic</string>
 				<key>foreground</key>
-				<string>#A3CBE3</string>
+				<string>#c5e400</string>
+				<key>fontStyle</key>
+				<string> italic </string>
 			</dict>
 		</dict>
 		<dict>
@@ -159,10 +172,8 @@
 			<string>entity.name.function</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string />
 				<key>foreground</key>
-				<string>#E8A64B</string>
+				<string>#c5e400</string>
 			</dict>
 		</dict>
 		<dict>
@@ -172,10 +183,10 @@
 			<string>variable.parameter</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#d9903b</string>
+				<key>fontStyle</key>
+				<string> italic </string>
 			</dict>
 		</dict>
 		<dict>
@@ -188,7 +199,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#e12977</string>
 			</dict>
 		</dict>
 		<dict>
@@ -201,7 +212,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#E8A64B</string>
+				<string>#c5e400</string>
 			</dict>
 		</dict>
 		<dict>
@@ -214,7 +225,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#D49E52</string>
+				<string>#7877ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -225,9 +236,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string />
+				<string> italic</string>
 				<key>foreground</key>
-				<string>#DB7C6D</string>
+				<string>#7877ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -240,7 +251,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#7877ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -262,11 +273,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F92672</string>
+				<string>#c5e400</string>
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#F8F8F0</string>
+				<string>#e12977</string>
 			</dict>
 		</dict>
 		<dict>
@@ -277,9 +288,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#AE81FF</string>
+				<string>#e12977</string>
 				<key>foreground</key>
-				<string>#F8F8F0</string>
+				<string>#ffff05</string>
 			</dict>
 		</dict>
 	<dict>
@@ -317,11 +328,9 @@
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
-	<key>semanticClass</key>
-	<string>theme.dark.agola_dark</string>
 	<key>author</key>
-	<string>Fatih Kececi</string>
+	<string>Palmer Oliveira</string>
 	<key>comment</key>
-	<string>Dark color scheme for text editors</string>
+	<string>https://github.com/expalmer/aurora-theme</string>
 </dict>
 </plist>

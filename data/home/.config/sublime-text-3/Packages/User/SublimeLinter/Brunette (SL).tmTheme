@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Agola Dark</string>
+	<string>Ofer 1</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#31333D</string>
+				<string>#201000</string>
 				<key>caret</key>
-				<string>#F8F8F0</string>
+				<string>#CC9966</string>
 				<key>foreground</key>
-				<string>#BBCF54</string>
+				<string>#ccaa77</string>
 				<key>invisibles</key>
-				<string>#31333D</string>
+				<string>#402000</string>
 				<key>lineHighlight</key>
-				<string>#3F4152</string>
+				<string>#402000</string>
 				<key>selection</key>
-				<string>#535566</string>
+				<string>#441122</string>
 			</dict>
 		</dict>
 		<dict>
@@ -31,7 +31,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#707180</string>
+				<string>#554433</string>
 			</dict>
 		</dict>
 		<dict>
@@ -42,7 +42,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B4C757</string>
+				<string>#cc6622</string>
 			</dict>
 		</dict>
 		<dict>
@@ -53,7 +53,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#eecc33</string>
 			</dict>
 		</dict>
 		<dict>
@@ -64,7 +64,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#eecc33</string>
 			</dict>
 		</dict>
 		<dict>
@@ -75,7 +75,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A2BA43</string>
+				<string>#eecc33</string>
 			</dict>
 		</dict>
 		<dict>
@@ -87,8 +87,6 @@
 			<dict>
 				<key>fontStyle</key>
 				<string />
-				<key>foreground</key>
-				<string>#9EC9E3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -99,7 +97,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DB7C6D</string>
+				<string>#885522</string>
 			</dict>
 		</dict>
 		<dict>
@@ -112,7 +110,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#DBBD46</string>
+				<string>#885522</string>
 			</dict>
 		</dict>
 		<dict>
@@ -125,7 +123,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#A3CBE3</string>
+				<string>#b82222</string>
 			</dict>
 		</dict>
 		<dict>
@@ -135,8 +133,10 @@
 			<string>entity.name.class</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>underline</string>
 				<key>foreground</key>
-				<string>#C77E77</string>
+				<string>#bb99ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -147,9 +147,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>   italic</string>
+				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#A3CBE3</string>
+				<string>#7766bb</string>
 			</dict>
 		</dict>
 		<dict>
@@ -162,7 +162,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#E8A64B</string>
+				<string>#7766bb</string>
 			</dict>
 		</dict>
 		<dict>
@@ -175,7 +175,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#dd9922</string>
 			</dict>
 		</dict>
 		<dict>
@@ -188,7 +188,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#885522</string>
 			</dict>
 		</dict>
 		<dict>
@@ -201,7 +201,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#E8A64B</string>
+				<string>#b82222</string>
 			</dict>
 		</dict>
 		<dict>
@@ -214,7 +214,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#D49E52</string>
+				<string>#b82222</string>
 			</dict>
 		</dict>
 		<dict>
@@ -227,7 +227,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#DB7C6D</string>
+				<string>#b82222</string>
 			</dict>
 		</dict>
 		<dict>
@@ -240,7 +240,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#b82222</string>
 			</dict>
 		</dict>
 		<dict>
@@ -314,14 +314,6 @@
             </dict>
         </dict></array>
 	<key>uuid</key>
-	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
-	<key>colorSpaceName</key>
-	<string>sRGB</string>
-	<key>semanticClass</key>
-	<string>theme.dark.agola_dark</string>
-	<key>author</key>
-	<string>Fatih Kececi</string>
-	<key>comment</key>
-	<string>Dark color scheme for text editors</string>
+	<string>96A92F4B-E068-4DC6-9635-F55E7D920420</string>
 </dict>
 </plist>

@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Agola Dark</string>
+	<string>Dark Korokai</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#31333D</string>
+				<string>#000000</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
-				<string>#BBCF54</string>
+				<string>#F8F8F2</string>
 				<key>invisibles</key>
-				<string>#31333D</string>
+				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#3F4152</string>
+				<string>#3E3D32</string>
 				<key>selection</key>
-				<string>#535566</string>
+				<string>#49483E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -31,7 +31,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#707180</string>
+				<string>#16FF00</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -42,7 +44,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B4C757</string>
+				<string>#E6DB74</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -53,7 +57,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#AE81FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -64,7 +68,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#AE81FF</string>
+				<key>fontStyle</key>
+				<string> italic </string>
 			</dict>
 		</dict>
 		<dict>
@@ -75,7 +81,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A2BA43</string>
+				<string>#AE81FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -86,9 +92,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string />
+				<string> italic   bold  </string>
 				<key>foreground</key>
-				<string>#9EC9E3</string>
+				<string>#F2FF00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -99,7 +105,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DB7C6D</string>
+				<string>#F92672</string>
+				<key>fontStyle</key>
+				<string> italic bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -109,10 +117,8 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string />
 				<key>foreground</key>
-				<string>#DBBD46</string>
+				<string>#F92672</string>
 			</dict>
 		</dict>
 		<dict>
@@ -123,9 +129,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string>italic  bold</string>
 				<key>foreground</key>
-				<string>#A3CBE3</string>
+				<string>#66D9EF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -135,8 +141,10 @@
 			<string>entity.name.class</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>underline     </string>
 				<key>foreground</key>
-				<string>#C77E77</string>
+				<string>#A6E22E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -147,9 +155,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>   italic</string>
+				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#A3CBE3</string>
+				<string>#A6E22E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -159,10 +167,10 @@
 			<string>entity.name.function</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string />
 				<key>foreground</key>
-				<string>#E8A64B</string>
+				<string>#A6E22E</string>
+				<key>fontStyle</key>
+				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -175,7 +183,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#FD971F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -188,7 +196,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#F92672</string>
 			</dict>
 		</dict>
 		<dict>
@@ -198,10 +206,8 @@
 			<string>entity.other.attribute-name</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string />
 				<key>foreground</key>
-				<string>#E8A64B</string>
+				<string>#A6E22E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -211,10 +217,8 @@
 			<string>support.function</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string />
 				<key>foreground</key>
-				<string>#D49E52</string>
+				<string>#66D9EF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -224,10 +228,8 @@
 			<string>support.constant</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string />
 				<key>foreground</key>
-				<string>#DB7C6D</string>
+				<string>#66D9EF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -238,9 +240,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string>italic </string>
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#66D9EF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -250,8 +252,6 @@
 			<string>support.other.variable</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string />
 			</dict>
 		</dict>
 		<dict>
@@ -318,10 +318,6 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.agola_dark</string>
-	<key>author</key>
-	<string>Fatih Kececi</string>
-	<key>comment</key>
-	<string>Dark color scheme for text editors</string>
+	<string>theme.dark.korokai</string>
 </dict>
 </plist>

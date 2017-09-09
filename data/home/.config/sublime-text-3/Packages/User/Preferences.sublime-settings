@@ -55,7 +55,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/SublimeLinter/AgolaDark (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Codecademy (SL).tmTheme",
 	"copy_with_empty_selection": true,
 	"create_window_at_startup": true,
 	"default_encoding": "UTF-8",

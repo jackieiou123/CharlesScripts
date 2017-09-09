@@ -2,25 +2,36 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>gutterSettings</key>
+	<dict>
+		<key>background</key>
+		<string>#49483E</string>
+		<key>divider</key>
+		<string>#75715E</string>
+		<key>foreground</key>
+		<string>#75715E</string>
+	</dict>
 	<key>name</key>
-	<string>Agola Dark</string>
+	<string>Code-Lover</string>
+	<key>semanticClass</key>
+	<string>theme.dark.code_lover</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#31333D</string>
+				<string>#0a1e36</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
-				<string>#BBCF54</string>
+				<string>#F8F8F2</string>
 				<key>invisibles</key>
-				<string>#31333D</string>
+				<string>#49483E</string>
 				<key>lineHighlight</key>
-				<string>#3F4152</string>
+				<string>#123561</string>
 				<key>selection</key>
-				<string>#535566</string>
+				<string>#1e4678</string>
 			</dict>
 		</dict>
 		<dict>
@@ -31,7 +42,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#707180</string>
+				<string>#515671</string>
 			</dict>
 		</dict>
 		<dict>
@@ -42,7 +53,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B4C757</string>
+				<string>#1eae28</string>
 			</dict>
 		</dict>
 		<dict>
@@ -53,7 +64,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#ff3e3e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -64,7 +75,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#be8cf0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -75,7 +86,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A2BA43</string>
+				<string>#1fb82b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -85,10 +96,8 @@
 			<string>variable</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string />
 				<key>foreground</key>
-				<string>#9EC9E3</string>
+				<string>#e9ed4e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -99,7 +108,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DB7C6D</string>
+				<string>#864ff9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -109,10 +118,8 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string />
 				<key>foreground</key>
-				<string>#DBBD46</string>
+				<string>#F92672</string>
 			</dict>
 		</dict>
 		<dict>
@@ -125,7 +132,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#A3CBE3</string>
+				<string>#5ef7df</string>
 			</dict>
 		</dict>
 		<dict>
@@ -136,7 +143,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C77E77</string>
+				<string>#65eb38</string>
 			</dict>
 		</dict>
 		<dict>
@@ -147,9 +154,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>   italic</string>
-				<key>foreground</key>
-				<string>#A3CBE3</string>
+				<string>italic </string>
 			</dict>
 		</dict>
 		<dict>
@@ -162,7 +167,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#E8A64B</string>
+				<string>#64eb37</string>
 			</dict>
 		</dict>
 		<dict>
@@ -175,7 +180,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#FD971F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -188,7 +193,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#F92672</string>
 			</dict>
 		</dict>
 		<dict>
@@ -201,7 +206,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#E8A64B</string>
+				<string>#A6E22E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -214,7 +219,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#D49E52</string>
+				<string>#67beed</string>
 			</dict>
 		</dict>
 		<dict>
@@ -224,10 +229,6 @@
 			<string>support.constant</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string />
-				<key>foreground</key>
-				<string>#DB7C6D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -240,7 +241,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#65b8ef</string>
 			</dict>
 		</dict>
 		<dict>
@@ -250,8 +251,6 @@
 			<string>support.other.variable</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string />
 			</dict>
 		</dict>
 		<dict>
@@ -317,11 +316,9 @@
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
-	<key>semanticClass</key>
-	<string>theme.dark.agola_dark</string>
 	<key>author</key>
-	<string>Fatih Kececi</string>
+	<string>HaCk3D</string>
 	<key>comment</key>
-	<string>Dark color scheme for text editors</string>
+	<string>dark theme for coders</string>
 </dict>
 </plist>
