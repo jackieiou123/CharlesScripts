@@ -2,7 +2,22 @@
 # this script should be edited by calling "ef"
 # this is an FIFO(first in first out) script, you can write down notes or command here and you can just call "fifo" to run it.
 
-echo '4种->东北-东北
-东北-外地
-外地-东北
-外地-外地'
+echo '紧迫任务：
+
+* 书单：我的奋斗
+* 项目
+* 计算机控制作业
+* 英语作业-开题报告
+'
+
+
+echo '学习计划：
+
+1. Haskell
+2. C/httpd
+2.5 数据结构
+3. 机器学习
+4. 理论：PRML/DEEP LEARNING
+5. 应用：Docker/K8s
+
+'
