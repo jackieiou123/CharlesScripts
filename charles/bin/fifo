@@ -1,11 +1,25 @@
 #!/bin/sh
 # this script should be edited by calling "ef"
 # this is an FIFO(first in first out) script, you can write down notes or command here and you can just call "fifo" to run it.
+echo '如何成为优秀的开发人员：
+
+目标->
+        短期->下周周末做完项目
+        中期->一年内把想法实现并发论文；考TG，去实习
+        长期->毕业前把深度学习学好
+
+学会评估权重
+严格执行权重
+
+
+'
 
 echo '紧迫任务：
 
 * 项目
 * 计算机控制作业
+
+
 '
 
 
@@ -17,6 +31,7 @@ echo '学习计划：
 3. 机器学习
 4. 理论：PRML/DEEP LEARNING
 5. 应用：Docker/K8s
+
 '
 echo '
 incessant
@@ -29,6 +44,7 @@ fungus
 thereby
 shuttle
 shutter
+
 '
 
 echo '
