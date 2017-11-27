@@ -1,0 +1,3 @@
+{
+    "cmd": ["xdg-open", "$file"]
+}
