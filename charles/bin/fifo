@@ -36,15 +36,50 @@ echo '学习计划：
 echo '
 incessant
 consecutive
+
 inclination
+
 subjugation
+quench
+
 ritual
-rigime
+
+regime
+
 fungus
+
 thereby
+
 shuttle
 shutter
 
+remnant
+ruminant
+
+forage
+forge
+furnace
+funeral
+
+rural
+royale
+
+reverse
+adverse
+verse
+
+trough
+thorough
+
+etch
+itch
+
+precipitate
+participate
+
+mesozoic
+
+provoke
 '
 
 echo '
@@ -59,4 +94,14 @@ echo '
 本学期制作课表，安排时间学习相关内容，合理规划进度
 
 每周末做项目1/2天
+'
+
+echo '
+1. 找到极值附近的点，多呆一会
+2. 画出误差与特征之间的关系图
+3. 训练路径
+4. 最优附近梯度下降寻优
+'
+
+songs='Never be alone
 '
