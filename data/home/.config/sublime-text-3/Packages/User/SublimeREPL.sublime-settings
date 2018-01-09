@@ -1,0 +1,8 @@
+{
+    "view_auto_close": false,
+    "filter_ascii_color_codes": true,
+    "repl_view_settings": {
+        "ignored_packages": ["Vintage"]
+    },
+    "show_transferred_text": true,
+}

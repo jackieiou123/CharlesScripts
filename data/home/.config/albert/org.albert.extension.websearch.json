@@ -1,0 +1,128 @@
+[
+    {
+        "iconPath": "/home/charles/.cache/albert/Google-0.png",
+        "name": "Google",
+        "trigger": "gg ",
+        "url": "https://www.google.com/search?q=%s"
+    },
+    {
+        "iconPath": "/home/charles/.cache/albert/Google Drive-0.png",
+        "name": "Google Drive",
+        "trigger": "gd",
+        "url": "https://drive.google.com/drive/search?q=%s"
+    },
+    {
+        "iconPath": "/home/charles/.cache/albert/Google Scholar-1.png",
+        "name": "Google Scholar",
+        "trigger": "scr ",
+        "url": "https://scholar.google.com/scholar?q=%s"
+    },
+    {
+        "iconPath": "/home/charles/.cache/albert/DuckDuckGo-0.png",
+        "name": "DuckDuckGo",
+        "trigger": "go ",
+        "url": "https://duckduckgo.com/?q=%s"
+    },
+    {
+        "iconPath": ":github",
+        "name": "GitHub",
+        "trigger": "gh ",
+        "url": "https://github.com/search?utf8=✓&q=%s"
+    },
+    {
+        "iconPath": "/home/charles/.cache/albert/En->Zh-0.png",
+        "name": "En->Zh",
+        "trigger": "tr ",
+        "url": "https://translate.google.cn/#en/zh-CN/%s"
+    },
+    {
+        "iconPath": "/home/charles/.cache/albert/中文->英文-0.png",
+        "name": "中文->英文",
+        "trigger": "翻译 ",
+        "url": "https://translate.google.cn/#zh-CN/en/%s"
+    },
+    {
+        "iconPath": "/home/charles/.cache/albert/Collins 英汉词典-0.png",
+        "name": "Collins 英汉词典",
+        "trigger": "cec ",
+        "url": "https://www.collinsdictionary.com/dictionary/english-chinese/%s"
+    },
+    {
+        "iconPath": "/home/charles/.cache/albert/Collins-0.png",
+        "name": "Collins",
+        "trigger": "col",
+        "url": "https://www.collinsdictionary.com/dictionary/english/%s"
+    },
+    {
+        "iconPath": "/home/charles/.cache/albert/Dictionary.com-0.png",
+        "name": "Dictionary.com",
+        "trigger": "dict ",
+        "url": "http://www.dictionary.com/browse/%s"
+    },
+    {
+        "iconPath": "/home/charles/.cache/albert/Urban Dictionary-1.png",
+        "name": "Urban Dictionary",
+        "trigger": "ud ",
+        "url": "https://www.urbandictionary.com/define.php?term=%s"
+    },
+    {
+        "iconPath": ":wikipedia",
+        "name": "Wikipedia",
+        "trigger": "wk ",
+        "url": "https://wikipedia.org/wiki/%s"
+    },
+    {
+        "iconPath": "/home/charles/.cache/albert/维基百科-0.png",
+        "name": "维基百科",
+        "trigger": "维基 ",
+        "url": "https://zh.wikipedia.org/wiki/%s"
+    },
+    {
+        "iconPath": "/home/charles/.cache/albert/GitBook-0.png",
+        "name": "GitBook",
+        "trigger": "gb ",
+        "url": "https://www.gitbook.com/search?q=%s"
+    },
+    {
+        "iconPath": "/home/charles/.cache/albert/Gutenberg-0.png",
+        "name": "Gutenberg",
+        "trigger": "gut ",
+        "url": "https://www.gutenberg.org/ebooks/search/?query=%s"
+    },
+    {
+        "iconPath": "/home/charles/.cache/albert/当当-1.png",
+        "name": "当当",
+        "trigger": "当当",
+        "url": "http://search.dangdang.com/?key=%s"
+    },
+    {
+        "iconPath": "/home/charles/.cache/albert/淘宝-0.png",
+        "name": "淘宝",
+        "trigger": "淘宝 ",
+        "url": "https://s.taobao.com/search?q=%s"
+    },
+    {
+        "iconPath": ":amazon",
+        "name": "Amazon",
+        "trigger": "ama ",
+        "url": "http://www.amazon.com/s/?field-keywords=%s"
+    },
+    {
+        "iconPath": ":wolfram",
+        "name": "Wolfram Alpha",
+        "trigger": "=",
+        "url": "https://www.wolframalpha.com/input/?i=%s"
+    },
+    {
+        "iconPath": ":youtube",
+        "name": "Youtube",
+        "trigger": "yt ",
+        "url": "https://www.youtube.com/results?search_query=%s"
+    },
+    {
+        "iconPath": ":ebay",
+        "name": "Ebay",
+        "trigger": "eb ",
+        "url": "http://www.ebay.com/sch/i.html?_nkw=%s"
+    }
+]
